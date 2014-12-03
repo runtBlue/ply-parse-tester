@@ -1,0 +1,22 @@
+{
+  "name": "ply-parse-tester",
+  "version": "0.0.0",
+  "description": "for Leo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/runtBlue/ply-parse-tester.git"
+  },
+  "author": "hiroki takagishi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runtBlue/ply-parse-tester/issues"
+  },
+  "homepage": "https://github.com/runtBlue/ply-parse-tester",
+  "dependencies": {
+    "parse-ply": "^0.1.0"
+  }
+}
